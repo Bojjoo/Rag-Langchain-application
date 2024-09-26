@@ -1,0 +1,14 @@
+langchain
+langchain_openai
+langchain_community
+flashrank
+openai
+faiss-cpu
+PyPDF2
+requests
+streamlit
+fastapi
+pydantic
+python-dotenv
+upstash-redis
+uvicorn
